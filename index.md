@@ -15,7 +15,7 @@ hero:
       link: /网络环境
     - theme: alt
       text: GITHUB 资源汇总
-      link: /全部资源概述
+      link: /github汇总/
 features:
   - title: 📚 Git 教程
     details: 从零开始学习 Git 版本控制，掌握基础命令和网络环境配置，助力高效协作开发
