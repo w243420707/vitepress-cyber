@@ -6,6 +6,19 @@
 
 ## 工具列表
 
+### TradingAgents
+
+- **项目名称**: TradingAgents
+- **作者**: TauricResearch
+- **核心功能**: 基于多智能体大语言模型的金融交易决策框架，模拟真实交易公司协作决策流程
+- **主要亮点**:
+  - 多智能体协作架构（协调员、市场/基本面/新闻/情绪分析师、风险管理师）
+  - 支持多种 LLM 提供商（OpenAI、DeepSeek、Google、Qwen、GLM、Azure OpenAI）
+  - Docker 容器化部署支持
+  - 整合技术面、基本面、新闻情绪等多维度分析
+- **详细介绍**: [TradingAgents 完整文档](/github汇总/金融工具/TradingAgents-金融工具)
+- **GitHub 地址**: https://github.com/TauricResearch/TradingAgents
+
 ### stock
 
 - **项目名称**: stock

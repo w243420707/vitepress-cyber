@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,ah as i}from"./chunks/framework.CnE9LWQQ.js";const _=JSON.parse('{"title":"网络环境","description":"","frontmatter":{},"headers":[],"relativePath":"网络环境.md","filePath":"网络环境.md"}'),r={name:"网络环境.md"};function l(n,a,o,c,h,d){return t(),s("div",null,[...a[0]||(a[0]=[i("",10)])])}const g=e(r,[["render",l]]);export{_ as __pageData,g as default};

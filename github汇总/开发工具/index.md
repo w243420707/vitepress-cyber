@@ -6,6 +6,22 @@
 
 ## 工具列表
 
+### Warp
+
+- **项目名称**: Warp
+- **作者**: warpdotdev
+- **核心功能**: AI 驱动的现代化终端，支持智能命令补全和协作
+- **主要亮点**:
+  - AI 驱动的智能终端，内置 Oz 助手
+  - 现代代码编辑体验，支持块编辑和语法高亮
+  - 基于 Rust 和 GPU 加速，性能卓越
+  - 支持 macOS、Linux 和 Windows 多平台
+  - 获得 2300 万美元融资，持续迭代更新
+- **详细介绍**: [Warp 完整文档](/github汇总/开发工具/Warp-开发工具)
+- **GitHub 地址**: https://github.com/warpdotdev/Warp
+
+---
+
 ### Bun
 
 - **项目名称**: Bun
