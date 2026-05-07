@@ -181,7 +181,7 @@ export default {
         desc: '新加坡实体企业运营，支持 AI和视频解锁 全系产品，Win/Mac/iPhone/Android 均可使用。',
         plan: '推荐套餐：99元 / 99999GB',
         price: '最低 9.9元/年起',
-        feature: '流量不限时，用完即止，送谷歌账号',
+        feature: '流量不限时，用完即止，送 AI 账号',
         coupon: '八五折优惠券：oqPCcC84',
         link: '点击进入'
       },

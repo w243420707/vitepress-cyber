@@ -5,7 +5,7 @@ const base = process.env.VITEPRESS_BASE || '/'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // 站点标题
-  title: '赛博资源站',
+  title: '动物情报站',
   // 忽略死链接检查（localhost 地址在构建时无法访问）
   ignoreDeadLinks: true,
   // 自定义域名请保持 '/', 项目页可在构建时传入 VITEPRESS_BASE=/<repo>/
@@ -40,7 +40,7 @@ export default defineConfig({
       lang: 'zh-CN',
       themeConfig: {
         // 站点标题和logo
-        siteTitle: 'Cyber Trainer',
+        siteTitle: 'Cyber Zoo',
         logo: '/logo.svg',
         nav: [
           { text: '首页', link: '/' },

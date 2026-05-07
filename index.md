@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "赛博炼丹师"
+  name: "动物情报站"
   text: "致力于可视化全部github项目"
   tagline: 今天干点啥🤔
   actions:
